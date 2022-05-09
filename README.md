@@ -1,2 +1,2 @@
 # antons-stepanovs-HTML
- Šīs būš man mājas darbs HTML/CSS/JS.
+ Šīs būs mans mājas darbs HTML/CSS/JS.
