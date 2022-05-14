@@ -8,26 +8,45 @@
      font-size: large;
  }
  .ramitis {
-        border-style: double;
-                border-color: chocolate;
-                background-color: azure;
+        border-style: groove;
+                border-color: rgb(196, 196, 196);
+                background-color: rgb(0, 44, 66);
+        height: 100%;
+        padding: 20px;
  } 
- #specialramitis{
-    border-style: dashed;
-    border-color: cornflowerblue;
-    margin:20px;
+ .ramitistopleft {
+    background-color: rgb(64, 220, 237);
+    height: 100%;
+    text-align: left;
     padding: 20px;
-    width: 50%;
+    } 
+.ramitistopright {
+    background-color: rgb(64, 220, 237);
+    height: 100%;
+    text-align: right;
+} 
+ #topramitis{
+    width: 636px;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns:40% 60%;
+    
+}
+ #specialramitis{
+    width: 636px;
+    height: 100%;
+    display: grid;
+    grid-template-columns:40% 60%;
+   
+   
 }
 
 ul li {
-    font-style: italic;
+    font-family: "Gill Sans", sans-serif;;
+    color: azure;
 }
 ol li {
-    font-style: italic;
-    text-decoration: underline;
+    font-family: "Gill Sans", sans-serif;;
+    color: azure;
 }
 
 ol p {
@@ -35,5 +54,11 @@ ol p {
 }
 
 body {
-    background-color: rgb(123, 190, 190);
+    background-color: rgb(255, 255, 255);
+}
+h4 {
+    color: rgb(64, 220, 237);
+}
+h2 {
+    color: rgb(255, 255, 255);
 }
