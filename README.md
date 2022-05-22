@@ -1,2 +1,2 @@
 # antons-stepanovs-HTML
- Šīs būs mans mājas darbs HTML/CSS/JS.
+ Šeit ir mans CV izmantojot HTML/CSS/JS
